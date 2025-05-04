@@ -10,3 +10,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# static
+demos/client-chatGPT/frontend/node_modules
+demos/client-chatGPT/__pycache__/
+demos/client-chatGPT/.azure/
+demos/client-chatGPT/.ipynb_checkpoints/
+.env
