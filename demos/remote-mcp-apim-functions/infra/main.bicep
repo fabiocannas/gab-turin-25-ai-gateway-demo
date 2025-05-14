@@ -16,6 +16,7 @@ param environmentName string
 })
 param location string = 'northeurope'
 param vnetEnabled bool
+param apimName string
 param apiServiceName string = ''
 param apiUserAssignedIdentityName string = ''
 param applicationInsightsName string = ''
@@ -48,7 +49,7 @@ resource rg 'Microsoft.Resources/resourceGroups@2021-04-01' = {
 }
 
 var apimResourceToken = toLower(uniqueString(subscription().id, resourceGroupName, environmentName, location))
-var apiManagementName = '${abbrs.apiManagementService}${apimResourceToken}'
+var apiManagementName = !empty(apimName) ? apimName: '${abbrs.apiManagementService}${apimResourceToken}'
 
 // apim service deployment
 module apimService './core/apim/apim.bicep' = {
