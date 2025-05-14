@@ -1,3 +1,8 @@
+## Credits
+[AI Gateway](https://github.com/Azure-Samples/AI-Gateway)
+[Remote-MCP-Apim-Functions-Python](https://github.com/Azure-Samples/remote-mcp-apim-functions-python)
+[Sample-App-AOAI-ChatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT)
+
 ## Prerequisites
 
 + [Python](https://www.python.org/downloads/) version 3.12.6
