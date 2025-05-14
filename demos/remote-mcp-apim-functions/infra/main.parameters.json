@@ -3,19 +3,28 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "environmentName": {
-      "value": "demo"
+      "value": "test"
     },
     "location": {
-      "value": "northeurope"
+      "value": "italynorth"
     },
     "resourceGroupName": {
-      "value": "rg-aigw-demo-gab-turin-25-it-2"
+      "value": "rg-gab-aigateway"
     },
     "vnetEnabled": {
       "value": "${VNET_ENABLED=true}"
     },
+    "apimName": {
+      "value": "apim-aigateway-gab-turin"
+    },
     "apimSku": {
-      "value": "Basicv2" 
+      "value": "Developer" 
+    },
+    "applicationInsightsName": {
+      "value": "appi-gab-turin"
+    },
+    "lognalyticsName": {
+      "value": "log-gab-turin"
     }
   }
 }
