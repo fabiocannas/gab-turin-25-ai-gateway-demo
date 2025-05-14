@@ -2,7 +2,7 @@
 [Sample-App-AOAI-ChatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT)
 
 ## README
-[README](..\..\README.md)
+[README](https://github.com/fabiocannas/gab-turin-25-ai-gateway-demo/blob/main/README.md)
 
 # [Preview] Sample Chat App with AOAI
 
