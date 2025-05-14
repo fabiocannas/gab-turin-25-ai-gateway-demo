@@ -25,5 +25,5 @@
    azd up
    ```
 
-![alt text](https://github.com/fabiocannas/global-azure-turin-25-ai-gateway-demo/blob/main/GlobalAzure Turin - Mattia Contessa&Fabio Cannas - Deploying and Protecting LLMs at Scale with Azure API Management.png?raw=true)
+![alt text](https://github.com/fabiocannas/global-azure-turin-25-ai-gateway-demo/blob/main/GlobalAzure%20Turin%20-%20Mattia%20Contessa%26Fabio%20Cannas%20-%20Deploying%20and%20Protecting%20LLMs%20at%20Scale%20with%20Azure%20API%20Management.png)
    
