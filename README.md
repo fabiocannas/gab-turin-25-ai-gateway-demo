@@ -3,7 +3,10 @@
 + [Remote-MCP-Apim-Functions-Python](https://github.com/Azure-Samples/remote-mcp-apim-functions-python)
 + [Sample-App-AOAI-ChatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT)
 
-## Prerequisites
+## Presentation
+[Slides (.pdf)](https://github.com/fabiocannas/global-azure-turin-25-ai-gateway-demo/blob/main/Global%20Azure%20Torino%202025%20-%20AI%20Gateway.pdf)
+
+## Demos - Prerequisites
 
 + [Python](https://www.python.org/downloads/) version 3.12.6
 + [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
