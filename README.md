@@ -1,3 +1,5 @@
+![alt text](https://github.com/fabiocannas/global-azure-turin-25-ai-gateway-demo/blob/main/GlobalAzure%20Turin%20-%20Mattia%20Contessa%26Fabio%20Cannas%20-%20Deploying%20and%20Protecting%20LLMs%20at%20Scale%20with%20Azure%20API%20Management.png)
+
 ## Credits
 + [AI Gateway](https://github.com/Azure-Samples/AI-Gateway)
 + [Remote-MCP-Apim-Functions-Python](https://github.com/Azure-Samples/remote-mcp-apim-functions-python)
@@ -29,5 +31,5 @@
    azd up
    ```
 
-![alt text](https://github.com/fabiocannas/global-azure-turin-25-ai-gateway-demo/blob/main/GlobalAzure%20Turin%20-%20Mattia%20Contessa%26Fabio%20Cannas%20-%20Deploying%20and%20Protecting%20LLMs%20at%20Scale%20with%20Azure%20API%20Management.png)
+
    
